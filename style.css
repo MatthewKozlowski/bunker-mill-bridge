@@ -1,0 +1,21 @@
+header {
+    background-color: lightgreen;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: lightblue;
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    left: 0;
+    top: 86px;
+}
+
+body {
+    background-color: lightyellow;
+}
